@@ -1,0 +1,2 @@
+DotInSpace:main.c
+	gcc -o DotInSpace main.c
